@@ -1,4 +1,4 @@
 - 👋 Hello, I am Shreyas! I'm an MSc Finance candidate at Warwick Business School
 - 📚 My areas of interest are quantitative finance, financial econometrics, macroeconomics and financial markets.
 - 🌱 I am proficient in R, Python and have working knowledge of MATLAB and Stata
-- 📫 Super chatty on most topics! Feel free to ping me on [Linkedin](https://www.linkedin.com/in/shreyasurgunde/) or drop me an [Email](mailto:shreyas.urgunde@warwick.ac.uk).
+- 📫 Super chatty on most topics! Feel free to ping me on [Linkedin](https://www.linkedin.com/in/shreyasurgunde/) or drop me an [Email](mailto:shreyas.urgunde@warwick.ac.uk), see you!
